@@ -1,0 +1,32 @@
+{
+  "name": "colimavive",
+  "version": "1.0.0",
+  "description": "Colima Vivo (Super Colima Bros 2D) - Videojuego de plataformas retro 16-bit homenaje a los 10 municipios de Colima",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "game",
+    "pixel-art",
+    "arcade",
+    "retrogaming",
+    "chiptune",
+    "colima",
+    "canvas-2d",
+    "web-audio-api",
+    "platformer",
+    "mexico"
+  ],
+  "author": "vcamachoone",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vcamachoone/colimavive.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vcamachoone/colimavive/issues"
+  },
+  "homepage": "https://vcamachoone.github.io/colimavive/"
+}

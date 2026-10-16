@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Agent & Teamwork Internal Logs
+.agents/
+.gemini/
+scratch/
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary Files
+*.tmp
+*.bak
