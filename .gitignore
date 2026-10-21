@@ -9,6 +9,9 @@ scratch/
 
 # Operating System Files
 .DS_Store
+**/.DS_Store
+._*
+**/._*
 Thumbs.db
 desktop.ini
 

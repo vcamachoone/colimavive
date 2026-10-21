@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1792363006032,
+    "name": "Manuel",
+    "score": 121840,
+    "coins": 42,
+    "world": 1,
+    "sub": 1,
+    "is_rev": 1,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792362968233,
+    "name": "Manuel",
+    "score": 103625,
+    "coins": 11,
+    "world": 1,
+    "sub": 0,
+    "is_rev": 1,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792362920951,
+    "name": "Manuel",
+    "score": 87090,
+    "coins": 36,
+    "world": 0,
+    "sub": 2,
+    "is_rev": 1,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792352993777,
+    "name": "Manuel",
+    "score": 81125,
+    "coins": 44,
+    "world": 0,
+    "sub": 2,
+    "is_rev": 1,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792362178097,
+    "name": "Manuel",
+    "score": 59875,
+    "coins": 43,
+    "world": 0,
+    "sub": 2,
+    "is_rev": 0,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792362414327,
+    "name": "Manuel",
+    "score": 59875,
+    "coins": 43,
+    "world": 0,
+    "sub": 2,
+    "is_rev": 0,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792362828391,
+    "name": "Manuel",
+    "score": 59330,
+    "coins": 24,
+    "world": 0,
+    "sub": 1,
+    "is_rev": 1,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792548102119,
+    "name": "Manuel",
+    "score": 56815,
+    "coins": 0,
+    "world": 0,
+    "sub": 1,
+    "is_rev": 1,
+    "date": "20/10/2026"
+  },
+  {
+    "id": 1792362108805,
+    "name": "Manuel",
+    "score": 47340,
+    "coins": 47,
+    "world": 0,
+    "sub": 1,
+    "is_rev": 1,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792387989988,
+    "name": "Manuel",
+    "score": 46435,
+    "coins": 37,
+    "world": 0,
+    "sub": 1,
+    "is_rev": 1,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792352755633,
+    "name": "Manuel",
+    "score": 42985,
+    "coins": 49,
+    "world": 0,
+    "sub": 1,
+    "is_rev": 0,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792362789205,
+    "name": "Manuel",
+    "score": 39270,
+    "coins": 36,
+    "world": 0,
+    "sub": 0,
+    "is_rev": 1,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792548009469,
+    "name": "Manuel",
+    "score": 26370,
+    "coins": 2,
+    "world": 0,
+    "sub": 0,
+    "is_rev": 1,
+    "date": "20/10/2026"
+  },
+  {
+    "id": 1792387947626,
+    "name": "Manuel",
+    "score": 25725,
+    "coins": 6,
+    "world": 0,
+    "sub": 0,
+    "is_rev": 1,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792362013955,
+    "name": "Manuel",
+    "score": 24560,
+    "coins": 45,
+    "world": 0,
+    "sub": 0,
+    "is_rev": 1,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792388250267,
+    "name": "Manuel",
+    "score": 24400,
+    "coins": 46,
+    "world": 9,
+    "sub": 2,
+    "is_rev": 0,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792352626526,
+    "name": "Manuel",
+    "score": 24300,
+    "coins": 28,
+    "world": 0,
+    "sub": 0,
+    "is_rev": 1,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792387825390,
+    "name": "Manuel",
+    "score": 21875,
+    "coins": 4,
+    "world": 0,
+    "sub": 0,
+    "is_rev": 1,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792354526204,
+    "name": "Manuel",
+    "score": 21375,
+    "coins": 0,
+    "world": 0,
+    "sub": 0,
+    "is_rev": 1,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792350391047,
+    "name": "Manuel",
+    "score": 19725,
+    "coins": 37,
+    "world": 4,
+    "sub": 2,
+    "is_rev": 0,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792353068619,
+    "name": "Manuel",
+    "score": 17980,
+    "coins": 43,
+    "world": 0,
+    "sub": 0,
+    "is_rev": 1,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792362575906,
+    "name": "NONITO",
+    "score": 15300,
+    "coins": 46,
+    "world": 0,
+    "sub": 0,
+    "is_rev": 0,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792362644241,
+    "name": "Manuel",
+    "score": 8000,
+    "coins": 31,
+    "world": 0,
+    "sub": 0,
+    "is_rev": 0,
+    "date": "18/10/2026"
+  },
+  {
+    "id": 1792432911438,
+    "name": "Manuel",
+    "score": 2300,
+    "coins": 3,
+    "world": 0,
+    "sub": 0,
+    "is_rev": 0,
+    "date": "19/10/2026"
+  }
+]
